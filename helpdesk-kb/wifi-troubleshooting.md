@@ -25,3 +25,8 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+# IF THIS FAILS
+
+Just get new internet and don't get stressed out!
+
