@@ -16,3 +16,8 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+# IF YOU STILL CAN'T FIGURE IT OUT
+
+Just create a new email and save yourself the stress!
+
